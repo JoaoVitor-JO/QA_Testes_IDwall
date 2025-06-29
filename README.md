@@ -1,5 +1,5 @@
 # QA_Testes_IDwall
-Esse repositorio contem os teste realizados no blog da IDwall, baseado no desfio  proposto pela IDwall.
+Esse repositorio contem os teste realizados no blog da IDwall, baseado no desfio  proposto pela IDwall em https://github.com/idwall/desafios-qa.
 
 A organização esta dividida por pastas da seguinte maneira
     1-planning: Dentro dessa pasta esta o planejamento dos testes a serem executados, escrito em ghenking utilizando o conseito de BDD.
