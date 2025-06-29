@@ -16,9 +16,7 @@ Os testes foram executados manualmente e as metricas de resultado estão localiz
 2° grafico-Qualidade dos cenarios testados
         legendas:
             testes aprovados sem resalva: indica testes que foram aprovados baseados nos pre-requisitos acordados no planning e que não é necessaria nehuma alteração para melhorar a experiencia do usuario
-
-            testes aprovados com resalvas: indica testes que foram aprovados baseados nos pre-requisitos acordados no planning, mas é recomendada alguma alteração para melhorar a experiencia do usuario
-            
+            testes aprovados com resalvas: indica testes que foram aprovados baseados nos pre-requisitos acordados no planning, mas é recomendada alguma alteração para melhorar a experiencia do usuario          
             Defeitos encontrados: indica a quantidade de defeitos encontrados no projeto  
 
 
